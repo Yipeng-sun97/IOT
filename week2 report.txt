@@ -1,0 +1,12 @@
+week2 report
+14/9/2020
+Preview the material of class 
+15/9/2020
+Find a way to buy raspberry pi 4b and learn python online 
+16/9/2020
+Fork the all the learning material of the IOT and review the course 
+17/9/2020
+Read the instruction books about raspberry pi , watch some courses about what to use raspberry pi.
+18/9/2020
+Read and learn code about python. Learn the content of the  "internet of thing a hand-on approach" chapter 1.
+
