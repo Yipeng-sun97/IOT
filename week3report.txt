@@ -1,0 +1,11 @@
+week3 report
+21/9/2020
+Preview the material of class 
+22/9/2020
+Preview the infomation and material of the class and read the  "internet of thing a hand-on approach" chapter 3,4.
+23/9/2020
+Review the course and recording about class. Then review the mateial about the lesson 4
+24/9/2020
+Learn about how to use raspberry pi and follow the instruction download the OS to the sd card
+25/9/2020
+Learn grammar of python from github about other courses online
