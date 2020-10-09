@@ -1,0 +1,12 @@
+week4 report
+28/9/2020
+Read lesson 5 and Preview the material of class 
+29/9/2020
+Finish the material "internet of thing a hand-on approach 
+1/10/2020
+Something wrong, raspberry pi activation failed
+2/10/2020
+Watch the courses about python and how to use python to build little game 
+4/10/2020
+Find a book about python and read 2 chapter about Flask Tornado and Django
+
