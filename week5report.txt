@@ -1,0 +1,12 @@
+week5 report
+6/10/2020
+Read lesson 6 and Preview the material of class 
+8/10/2020
+Know how to use the base sensors of Raspberry pi 
+10/10/2020
+Know the project of Raspberry pi about face identification in door from Bilibili
+13/10/2020
+Learn linux and some command operation such as IS, cd, mkdir,rm
+15/10/2020
+Learn software sources in Raspberry pi such as sudo,apt-get,install,updata
+
