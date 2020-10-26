@@ -1,0 +1,12 @@
+week6 report
+17/10/2020
+Learn basic knowledge of circuit
+19/10/2020
+Learn about how to use the tool such as vim, touch, tree
+21/10/2020
+Learn python3 from Bilibili
+22/10/2020
+Get a screen of raspberry 
+25/10/2020
+Learn and know project of Raspberry pi about use Raspberry pi to control the motor to run the wheel.
+
