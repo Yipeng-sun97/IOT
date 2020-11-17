@@ -1,0 +1,11 @@
+week7 report
+27/10/2020
+Review the content of the classes
+29/10/2020
+Using remote desktop instead of screen 
+1/11/2020
+Learn python and watch the other python classes on Bilinili
+5/11/2020
+Install Django and Django Rest framwork
+7/11/2020
+Realize the speed of the download is really slow, so deal with this problem by source change
