@@ -7,4 +7,5 @@ Learn some project from the Bilibili
 Install and run pyang on the raspberry pi
 15/11/2020
 Learn about crossbario and watch the recording follow the lab on the raspberry pi
-
+20/11/2020
+learn how to build the Cortana assiatant using Window 10 IOT core on Raspberry Pi from Youtube channel Geek Till IT Hertz
