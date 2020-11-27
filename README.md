@@ -16,7 +16,25 @@ mixer.music.play()
 pip3  install  pygame
 ```
 
-This library has limited support for MP3 files, and its website states that it may crash under Debian, on which the official Raspberry Pie system is based, so this method is not recommended. For more information, please refer to this website [pygame](http://www.pygame.org/docs/ref/music.html)
+This library has limited support for MP3 files, and its website states that it may crash under Debian, on which the official Raspberry Pi system is based, so this method is not recommended. For more information, please refer to this website [pygame](http://www.pygame.org/docs/ref/music.html)
+
+## using vlc Python binding modules
+```
+pip3 install python-vlc         #Python3
+```
+```
+sudo apt-get install vlc -y  
+```
+after that, I should install pulseaudio
+```
+import vlc
+p = vlc.MediaPlayer("file:///path/to/track.mp3")
+p.play()
+```
+when I want to stop play
+```
+p.stop()
+```
 
 
 
