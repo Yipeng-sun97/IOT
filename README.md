@@ -4,7 +4,7 @@
 
 ##  using pygame
 
-from pygame import mixer  # Load the popular external library
+<h> from pygame import mixer  # Load the popular external library </h>
 
 mixer.init()
 mixer.music.load('e:/LOCAL/music/love.mp3')
