@@ -1,4 +1,4 @@
-  # *21/11/2020
+  # *21/11/2020 to 25/11/2020
 
 ## Play the music on raspberry pi by python
 
@@ -36,11 +36,19 @@ when I want to stop play
 p.stop()
 ```
 
-But, there are some problmes.
+But, there are some problems.
 ```
 [0a27ad50] vlcpulse audio output error: PulseAudio server connection failure: Connection refused
 [0a351e20] vlcpulse audio output error: PulseAudio server connection failure: Connection refused
 ```
-
+Finally, I deal with this problem
+The way to solve the problem
+```
+rm -r ~/.pulse
+rm -r ~/.pulse-cookie
+rm -r ~/.config/pulse
+sudo pulseaudio -k
+pulseaudio --start
+```
 
 
