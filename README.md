@@ -4,12 +4,12 @@
 
 ##  using pygame
 
-'from pygame import mixer  # Load the popular external library 
+  from pygame import mixer  # Load the popular external library 
 
-mixer.init()
-mixer.music.load('e:/LOCAL/music/love.mp3')
-mixer.music.play()'
+  mixer.init()
+  mixer.music.load('e:/LOCAL/music/love.mp3')
+  mixer.music.play()
 
 ## install the pygame library before you use it.
 
-pip3 install pygame        
+  pip3 install pygame        
