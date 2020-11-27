@@ -9,3 +9,7 @@ from pygame import mixer  # Load the popular external library
 mixer.init()
 mixer.music.load('e:/LOCAL/music/love.mp3')
 mixer.music.play()
+
+install the pygame library before you use it.
+
+pip3 install pygame         #Python3
