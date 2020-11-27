@@ -36,5 +36,11 @@ when I want to stop play
 p.stop()
 ```
 
+But, there are some problmes.
+```
+[0a27ad50] vlcpulse audio output error: PulseAudio server connection failure: Connection refused
+[0a351e20] vlcpulse audio output error: PulseAudio server connection failure: Connection refused
+```
+
 
 
