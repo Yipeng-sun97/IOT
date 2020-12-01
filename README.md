@@ -55,6 +55,16 @@ pulseaudio --start
 # Project
 ## Access to Ali Platform
 
-Turn on the IoT IoT Suite [Ali](https://www.aliyun.com/product/iot) 
+Turn on the IoT IoT Suite [Ali] (https://www.aliyun.com/product/iot) 
 
-
+The properties corresponding to the object model are reported to the payload.
+```
+{
+    id: 123452452,
+    params: {
+        temperature: 26.2,
+        humidity: 60.4
+    },
+    method: "thing.event.property.post"
+}
+```
