@@ -68,3 +68,8 @@ The properties corresponding to the object model are reported to the payload.
     method: "thing.event.property.post"
 }
 ```
+# Device Side Development
+```
+$ pip install paho-mqtt
+```
+Analog Device Thermometer.py Code
