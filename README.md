@@ -73,3 +73,9 @@ The properties corresponding to the object model are reported to the payload.
 $ pip install paho-mqtt
 ```
 Analog Device Thermometer.py Code
+
+# Equipment Startup
+```
+$ python thermometer.py
+```
+
