@@ -73,8 +73,10 @@ T: Hot Singles
 E: Exit
 
 
-Raspberry Pie WeChat Music Player, using Netease Cloud Music API, based on itchat WeChat framework. I learn much from [this](https://github.com/littlecodersh/ItChat)
+Raspberry Pie WeChat Music Player, using Netease Cloud Music API, based on itchat WeChat framework. I learn much from [this](https://github.com/littlecodersh/ItChat). 
 Then, I watch the [Demo Video](https://v.youku.com/v_show/id_XMTYwMDkzOTk4MA==.html#paction)
+
+
 
 
 # Project
