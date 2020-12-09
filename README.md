@@ -55,14 +55,23 @@ pulseaudio --start
 This version is relatively simple, and some new features have been extended to RasWxMusicbox during this period, such as support for logging in to one's NetEase cloud music account, support for playing one's own favorite song list, etc. Specific features include.
 
 H: Helpful Information
+
 L: Login to Netease Cloud Music
+
 U: User song list
+
 M: Playlist
+
 N: Next song
+
 R: Now Playing
+
 S: Song Search
+
 T: Hot Singles
+
 E: Exit
+
 
 Raspberry Pie WeChat Music Player, using Netease Cloud Music API, based on itchat WeChat framework. I learn much from [this](https://github.com/littlecodersh/ItChat)
 Then, I watch the [Demo Video](https://v.youku.com/v_show/id_XMTYwMDkzOTk4MA==.html#paction)
