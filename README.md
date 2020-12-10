@@ -76,6 +76,20 @@ E: Exit
 Raspberry Pie WeChat Music Player, using Netease Cloud Music API, based on itchat WeChat framework. I learn much from [this](https://github.com/littlecodersh/ItChat). 
 Then, I watch the [Demo Video](https://v.youku.com/v_show/id_XMTYwMDkzOTk4MA==.html#paction)
 
+1. install dependency packages:
+```
+sudo apt-get install python-imaging
+sudo apt-get install pillow
+sudo apt-get install mpg123
+```
+2. Switch to the file directory and run python run.py.
+
+3. Scan the code to log in.
+
+4. Send song name to search, it will return the music list, such as Nansanan. 5.
+
+5. Send the song name, serial number, and play it, for example, Nansanan 29, where there is a space between the song name and number.
+
 
 
 
